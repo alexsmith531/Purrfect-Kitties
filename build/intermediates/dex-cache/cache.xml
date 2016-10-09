@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_c797c337398d40b60f710b837f9b658e532dca31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_0320ba288db823b505e949249f2617d7bcd6ca48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8dbb9105420cd7c1973b9d9aba49a1bfd4269b0">
+        <dex dex="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_67560da0f0df1a26e6fedec3d62eff1feb7125f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_316e7424ca5b6558d17368c78bd3fe00b1a2a7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_2e95f4476c3603ea5014fca761610a20396b648c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0e7a9483598120cec51b3d74f2dc23ee5981588">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_b5de858624e3727c556ff59e9ee99642edc6c355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9b06bdfd3342d11043b4d24958473a51ea730fb2">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\instant-run_c6727a55d79fb25b6ebcbc2626bd7e09435af3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\bestcode\KittyClicker\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0e7a9483598120cec51b3d74f2dc23ee5981588">
+        <dex dex="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\pre-dexed\debug\libmuse_android_f94d497cf9c81277d90dd2f6f49afa3a3f4cf16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd56a894e4e4e85ccd827fb12dd92328eee66568">
+        <dex dex="C:\Users\Alex\bestcode\KittyClicker\app\build\intermediates\pre-dexed\debug\instant-run_8417a07f2c8e69da8790615179b58bc51906fead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_66d09e18b9d993ac2d1a90ddbd5845b36c8003c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33eb347a1592194030aebd2ef01765c9adc3be33">
+        <dex dex="C:\Users\Alex\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ed5f9cce993883b564388ae7c4a5f9f39dad78ba.jar" />
+    </item>
+
+</items>

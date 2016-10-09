@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\bestcode\\KittyClicker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Alex\\bestcode\\KittyClicker\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Alex\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\bestcode\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Alex\\bestcode\\TestLibMuseAndroid\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
