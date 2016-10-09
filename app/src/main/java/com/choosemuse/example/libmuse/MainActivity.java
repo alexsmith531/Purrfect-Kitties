@@ -44,6 +44,7 @@ import android.os.Environment;
 import android.os.Looper;
 import android.os.Handler;
 import android.util.Log;
+import android.util.Property;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
@@ -549,6 +550,9 @@ public class MainActivity extends Activity implements OnClickListener {
     private void updateBlink() {
         TextView blinkText = (TextView)findViewById(R.id.blinkDisplay);
         blinkText.setText(String.format("%d", numTimesBlinked));
+        ImageView image = (ImageView)findViewById(R.id.picture);
+        image.getLayoutParams().height = (int) Math.pow(numTimesBlinked+2,2);
+        image.getLayoutParams().width = (int) Math.pow(numTimesBlinked+2,2);
     }
     private void updateNod() {
         // TODO
@@ -673,8 +677,8 @@ public class MainActivity extends Activity implements OnClickListener {
             long timestamp = fileReader.getMessageTimestamp();
 
             Log.i(tag, "type: " + type.toString() +
-                  " id: " + Integer.toString(id) +
-                  " timestamp: " + String.valueOf(timestamp));
+                    " id: " + Integer.toString(id) +
+                    " timestamp: " + String.valueOf(timestamp));
 
             switch(type) {
                 // EEG messages contain raw EEG data or DRL/REF data.

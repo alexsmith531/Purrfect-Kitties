@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 09 09:42:02 EDT 2016
+#Sun Oct 09 10:46:17 EDT 2016
 2.base=C\:\\Users\\Alex\\bestcode\\KittyClicker\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=C\:\\Users\\Alex\\bestcode\\KittyClicker\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\hamburger.jpg
 5.set=ANDROID_RESOURCE
