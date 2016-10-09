@@ -475,7 +475,7 @@ public class MainActivity extends Activity implements OnClickListener {
         accelBuffer[1] = p.getAccelerometerValue(Accelerometer.Y);
         accelBuffer[2] = p.getAccelerometerValue(Accelerometer.Z);
 
-        if (stageOfNod == 0 && accelBuffer[2] > 0.75) {
+        if (stageOfNod == 0 && accelBuffer[2] > 0.5) {
             stageOfNod = 1;
         }
         if (stageOfNod == 1 && accelBuffer[2] < 0.25) {
